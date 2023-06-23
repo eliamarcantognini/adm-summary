@@ -140,3 +140,7 @@ Tale sanzione non può comunque superare il triplo del beneficio conseguito.
 ## Art. 317 | Concussione
 
 Il pubblico ufficiale che, abusando della sua qualità o dei suoi poteri, costringe taluno a dare o a promettere indebitamente, a lui o a un terzo, denaro o altra utilità è punito ocn la reclusione da 6 a 12 anni.
+
+## Art. 317 bis | Pene accessorie
+
+La condanna per il reato di cui agli articoli 314 (peculato) e 317 (concussione), 319 (corruzzione per un atto contrario ai doveri d'ufficio) e 319 ter (corruzione in atti giudiziari) importa l'interdizione perpetua dai pubblici uffici. Nondimeno, se per circostanze attenuanti viene inflitta la reclusione per un tempo inferiore a 3 anni, la condanna importa l'interdizione temporanea.
