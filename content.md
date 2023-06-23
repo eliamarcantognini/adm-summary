@@ -93,3 +93,50 @@ La funzione fondamentale delle indagini di PG è quella di acquisire gli element
 # L'arresto e il fermo di Polizia Giudiziaria
 
 ## Le misure precautelari
+
+
+# Pubblici ufficiali
+
+Sono di seguito riportate le principali nozioni.
+
+## Art. 357 | Nozione di pubblico ufficiale
+
+Agli effetti della legge penale, sono pubblici ufficiali coloro i quali esercitano una pubblica funzione legislativa, giudiziaria o amministrativa. Agli stessi effetti è pubblica la funzione amministrativa disciplinata da norme di diritto pubblico e da atti autoritativi e caratterizzata dalla formazione e dalla manifestazione della volontà della pubblica amministrazione o dal suo svolgersi per mezzo di poteri autoritativi o certificativi.
+
+## Art. 358 | Nozione della persona incaricata di un pubblico servizio
+
+Agli effetti della legge penale, sono incaricati di un pubblico servizio coloro i quali, a qualunque titolo, prestano un pubblico servizio. Per pubblico servizio deve intendersi un'attività disciplinata nelle stesse forme della pubblica funzione, ma caratterizzata, dalla mancanza dei poteri tipici di quest'ultima, e con esclusione dello svolgimento di semplici mansioni di ordine della prestazione di opera meramente materiale.
+
+## Art. 359 | Persone esercenti un servizio di pubblica necessità
+
+Agli effetti della legge penale, sono persone che esercitano un servizio di pubblica necessità:
+
+1. i privati che esercitano professioni forensi o sanitarie, o altre professioni il cui esercizio sia per legge vietato senza una speciale abilitazione dello Stato, quando dell'opera di essi il pubblico sia per legge obbligato a valersi;
+2. i privati che, non esercitando una pubblica funzione, né prestando un pubblico servizio, adempiono un servizio dichiarato di pubblica necessità mediante un atto della pubblica amministrazione.
+
+## Art. 360 | Cessazione della qualità di pubblico ufficiale
+
+Quando al legge considera la qualità di pubblico ufficiale o di incaricato di un pubblico servizio, o di esercente un servizio di pubblica necessità, come elmento costitutivo o come circostanza aggravante di un reato, la cessazione di tale qualità, nel momento in cui il reato è commesso, non esclude l'esistenza di questo né la circostanza aggravante se il fatto si riferisce all'ufficio o al servizio esercitato.
+
+# Reati contro la PA
+
+I principali reati dei dipendenti pubblici e dei privati esercenti un servizio di pubblica necessità a danno della Pubblica Amministrazione sono di seguito riportati.
+
+## Art. 314 | Peculato
+
+Il pubblico ufficiale o l'incaricato di un pubblico servizio che, avendo per ragione del suo ufficio o servizio, il possesso o comunque la disponibilità di danaro di altra cosa mobile altrui, se ne appropria è punito con la reclusione da 4 a 10 anni.  
+Si applica la pena della reclusione da 6 mesi a 3 anni quando il colpevole ha agito al solo scopo di fare uso momentaneo della cosa, e questa, dopo l'uso momentaneo, è stata immediatamente restituita. In questo caso si parla di *peculato d'uso*.
+
+## Art. 316 | Peculato mediante profitto dell'errore altrui
+
+Il pubblico ufficiale o l'incaricato di un pubblico servizio il quale, nell'esercizio delle funzioni o del servizio, giovandosi dell'errore altrui, riceve o ritiene indebitamente, per sé o per un terzo, denaro od altra utilità, è punito con la reclusione da 6 mesi a 3 anni.
+
+## Art. 316 ter | Indebita percezione di erogazioni a danno dello Stato
+
+Salvo che il fatto costituisca il reato previsto dall'art. 640-bis (truffa aggravata per il conseguimento di erogazioni pubbliche), chiunque mediante l'utilizzo la presentazione di dichiarazioni o di documenti falsi o attestanti cose non vere, ovvero mediante l'omissione di informazioni dovute, consegue indebitamente, per sé o per altri, contributi, finanziamenti, mutui agevolati o altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati dallo Stato, da altri enti pubblici o dalle Comunità europee è punito con la reclusione da 6 mesi a 3 anni.  
+Quando la somma indebitamente percepita è pari o inferiore a €3.999,96 si applica soltanto la sanzione amministrativa del pagamento di una somma di denaro da €5.164 a €25.822.  
+Tale sanzione non può comunque superare il triplo del beneficio conseguito.
+
+## Art. 317 | Concussione
+
+Il pubblico ufficiale che, abusando della sua qualità o dei suoi poteri, costringe taluno a dare o a promettere indebitamente, a lui o a un terzo, denaro o altra utilità è punito ocn la reclusione da 6 a 12 anni.
