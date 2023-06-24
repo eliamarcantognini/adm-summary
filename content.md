@@ -144,3 +144,35 @@ Il pubblico ufficiale che, abusando della sua qualità o dei suoi poteri, costri
 ## Art. 317 bis | Pene accessorie
 
 La condanna per il reato di cui agli articoli 314 (peculato) e 317 (concussione), 319 (corruzzione per un atto contrario ai doveri d'ufficio) e 319 ter (corruzione in atti giudiziari) importa l'interdizione perpetua dai pubblici uffici. Nondimeno, se per circostanze attenuanti viene inflitta la reclusione per un tempo inferiore a 3 anni, la condanna importa l'interdizione temporanea.
+
+## Art. 318 | Corruzione per l'esercizio della funzione
+
+Il pubblico ufficiale che per l'esercizio delle sue funzioni o dei suoi poteri, indebitamente riceve, per sé o per un terzo, denaro o altra utilità o ne accetta la promessa è punito con la reclusione da 1 a 5 anni.
+
+## Art. 319 | Corruzione per un atto contrario ai doveri d'ufficio
+
+Il pubblico ufficiale che, per omettere o ritardare o per aver omesso o ritardato un atto del suo ufficio, ovvero per compiere o per aver compiuto un atto contrario ai doveri di ufficio, riceve, per sé o per un terzo, denaro od altra utilità, o ne accetta la promessa, è punito con la reclusione da 4 a 8 anni.
+
+## Art. 319 bis | Circostanze aggravanti
+
+La pena è aumentata se il fatto di cui all'art. 319 ha per oggetto il conferimento di pubblici impieghi o stipendi o pensioni o la stipulazione di contratti nei quali sia interessata l'amministrazione alla quale il pubblico ufficiale appartiene.
+
+## Art. 319 ter | Corruzione in atti giudiziari
+
+Se i fatti indicati negli articoli 318 e 319 sono commessi per favorire o danneggiare una parte in un processo civile, penale o amministrativo, si applica la pena della reclusione da 4 a 10 anni.  
+Se dal fatto deriva l'ingiusta condanna di taluna alla reclusione non superiore a 5 anni, la pena è della reclusione da 5 a 12 anni; se deriva l'ingiusta condanna alla reclusione superiore a 5 anni o all'ergastolo, la pena è della reclusione da 6 a 20 anni.
+
+## Art. 319 quater | Induzione indebita a dare o promettere utilità
+
+Salvo che il fatto costituisca più grave reato, il pubblico ufficiale o l'incaricato di pubblico servizio che, abusando della sua qualità o dei suoi poteri, induce taluno a dare o promettere indebitamente, a lui o a un terzo, denaro o altra utilità è punito con la reclusione da 3 a 8 anni. Nei casi previsti dal primo comma, chi dà o promette denaro o altra utilità è punito con la reclusione fino a 3 anni.
+
+## Art. 320 | Corruzione di eprsona incaricata di un pubblico servizio
+
+Le disposizioni degli art. 318 e 319 si applicano anche all'incaricato di un pubblico servizio.
+
+## Art. 321 | Pene per il corruttore
+
+Le pene stabilite nel primo comma dell'art. 318, negli art. 319, 319-bis, 319-ter, 320, in relazione alle suddette ipotesi degli art. 318 e 319, si applicano anche a chi dà o promette al pubblico ufficiale o all'incaricato di un pubblico servizio il denaro od altra utilità.
+
+## Art. 322 | Istigazione alla corruzione
+
