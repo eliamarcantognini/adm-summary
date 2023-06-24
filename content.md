@@ -181,3 +181,29 @@ Se l'offerta o la promessa è fatta per indurre un pubblico ufficiale o un incar
 La pena di cui al primo comma si applica al pubblico ufficiale o all'incaricato di un pubblico servizio che sollecita una promessa o dazione di denaro o altra utilità per l'esercizio delle sue funzioni o dei suoi poteri.  
 La pena di cui al secondo comma si applica al pubblico ufficiale o all'incaricato di un pubblico servizio che sollecita una promessa o dazione di denaro od altra utilità da parte di un privato per le finalità indicate dall'art. 319.
 
+## Art. 322 bis | Peculato, concussione, induzione indebita, dare o promettere utilità, corruzione e istigazione alla corruzione di membri degli organi delle Comunità europee e di funzionari delle Comunità europee e di Stati esteri
+
+Le disposizioni degli art. 314, 316 - 320, 322, terzo e quarto comma, si applicano anche: 
+
+1. ai membri della Commissione delle Comunità europee, del Parlamento europeo, della Corte di Giustizia e della Corte dei Conti delle Comunità europee;
+2. ai funzionari e agli agenti assunti per contratto a norma dello statuto dei funzionari delle Comunità europee o del regime applicabile agli agenti delle Comunità europee;
+3. alle persone comandate dagli Stati membri o da qualsiasi ente pubblico o privato presso le Comunità europee, che esercitino funzioni corrispondenti a quelle dei funzionari o agenti delle Comunità europee;
+4. ai membri e agli addetti a enti costituiti sulla base dei Trattati che istituiscono le Comunità europee;
+5. a coloro che, nell'ambito di altri Stati membri dell'Unione Europea, svolgono funzioni o attività corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio.  
+
+Le disposizioni degli articoli 319-quater, secondo comma, 321 e 322, primo e secondo comma, si applicano anche se il denaro o altra utilità è dato, offerto o promesso:
+
+- alle persone indicate nel primo comma del presente articolo;
+- a persone che esercitano funzioni o attività corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di altri Stati esteri o roganizzazioni pubbliche internazionali, qualora il fatto sia commesso per procurare a sé o ad altri un indebito vantaggio in operazioni economiche internazionali, ovvero al fine di ottenere o di mantenere un'attività economica finanziaria. Le persone indicate nel primo comma sono assimilate ai pubblici ufficiali, qualora esercitino funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi.
+
+## Art. 323 | Abuso di ufficio
+
+Salvo che il fatto non costituisca un più grave reato, il pubblico ufficiale o l'incaricato di pubblico servizio che, nello svolgimento delle funzioni o del servizio, in violazione di norme di legge o di regolamento, ovvero omettendo di astenersi in presenza di un interesse proprio di un prossimo congiunto o negli altri casi prescritti, intenzionalmente procura a sé o ad altri un ingiusto vantaggio patrimoniale ovvero arreca ad altri un danno ingiusto, è punito con la reclusione da 1 a 4 anni.  
+La penna è aumentata nei casi in cui il vantaggio o il danno hanno un carattere di rilevante gravità.
+
+## Art. 325 | Utilizzazione d'invenzioni o scoperte conosciute per ragione d'ufficio
+
+Il pubblico ufficiale o l'incaricato di un pubblico servizio, che impiega, a proprio o altrui profitto, invenzioni o scoperte scientifiche, o nuove applicazioni industriali, che egli conosca per ragione dell'ufficio o servizio, e che debbano rimanere segrete, è punito con la reclusione da 1 a 5 anni e con la multa non inferiore a €516.
+
+## Art. 326 | Rivelazione ed utilizzazione di segreti di ufficio
+
