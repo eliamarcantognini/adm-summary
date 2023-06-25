@@ -96,6 +96,8 @@ La funzione fondamentale delle indagini di PG è quella di acquisire gli element
 
 
 # Pubblici ufficiali
+<span class='ut'>Codice Penale - Libro II - Titolo II<span>  
+<span class='ut'>Dei delitti contro la Pubblica Amministrazione<span>  
 
 Sono di seguito riportate le principali nozioni.
 
@@ -119,6 +121,8 @@ Agli effetti della legge penale, sono persone che esercitano un servizio di pubb
 Quando al legge considera la qualità di pubblico ufficiale o di incaricato di un pubblico servizio, o di esercente un servizio di pubblica necessità, come elmento costitutivo o come circostanza aggravante di un reato, la cessazione di tale qualità, nel momento in cui il reato è commesso, non esclude l'esistenza di questo né la circostanza aggravante se il fatto si riferisce all'ufficio o al servizio esercitato.
 
 # Reati contro la PA
+<span class='ut'>Codice Penale - Libro II - Titolo II<span>  
+<span class='ut'>Dei delitti contro la Pubblica Amministrazione<span>  
 
 I principali reati dei dipendenti pubblici e dei privati esercenti un servizio di pubblica necessità a danno della Pubblica Amministrazione sono di seguito riportati.
 
@@ -246,4 +250,29 @@ Se il colpevole è colui che ha in custodia la cosa, la pena è della reclusione
 Se la violazione dei sigilli è resa possibile, o comunque agevolata, per colpa di chi ha in custodia la cosa, questi è punito con la sanzione amministrativa pecuniaria da €154 a €929.
 
 ## Art. 353 | Turbata libertà degli incanti
+
+Chiunque, con violenza o minaccia, o con doni, promesse, collusioni o altri mezzi praudolenti, impedisce o turba la gara nei pubblici incanti o nelle licitazioni private per conto di pubbliche amministrazioni, ovvero ne allontana gli offerenti, è punito con l areclusione da 6 mesi a 5 anni e con la multa da €103 a €1.032.  
+Se il colpevole è persona preposta dalla legge o dall'autorità agli incanti o alle licitazioni suddette, la reclusione è da 1 a 5 anni e la multa da €516 a €2.065.  
+Le pene stabilite in questo articolo si applicano anche nel caso di licitazioni private per conto di privati, diretta da un pubblico ufficiale o da persona legalmente autorizzata, ma sono ridotte della metà.
+
+## Art. 353 bis | Turbata libertà del procedimento di scelta del contraente
+
+Salvo che il fatto costituisca più grave reato, chiunque con violenza o minaccia, o con doni, promesse, collusioni o altri mezzi fraudolenti, turba il procedimento amministrativo diretto a stabilire il contenuto del bando o di altro atto equipollente al fine di condizionare le modalità di scelta del contraente da parte della pubblica amministrazione è punito con la reclusione da 6 mesi a 5 anni e con la multa da €103 a €1.032.
+
+# Delitti contro la fede pubblica
+<span class='ut'>Codice Penale - Libro II - Titolo VII<span>  
+<span class='ut'>Dei delitti contro la fede pubblica - Capo II - Della falsità in sigilli o strumenti o segni di autenticazione, certificazione o riconoscimento<span>  
+
+## Art. 468 | Contraffazione di altri pubblici sigilli o strumenti destinati a pubblica autenticazione o certificazione e uso di tali sigilli e strumenti contraffatti
+
+Chiunque contraffà il sigillo di un ente pubblico o di un pubblico ufficio, ovvero, non essendo concorso nella contraffazione, fa uso di tale sigillo contraffatto, è punito con la reclusione da 1 a 5 anni e con la multa da €103 a €1.032.  
+La stessa pena si applica a chi contraffà altri strumenti destinati a pubblica autenticazione o certificazione, ovvero, senza essere concorso nella contraffazione, fa uso di tali strumenti.
+
+## Art. 469 | Contraffazione delle impronte di una pubblica autenticazione o certificazione
+
+Chiunque, con mezzi diversi dagl istrumenti indicati negli articoli precedenti, contraffà le impronte di una pubblica autenticazione o certificazione, ovvero, non essendo concorso nella contraffazione, fa uso della cosa che reca l'impronta contraffatta, soggiace alle pene rispettivamente stabilite nei detti articoli, ridotte di un terzo.
+
+## Art. 470 | Vendita o acquisto di cose con impronte contraffatte di una pubblica autenticazione o certificazione
+
+Chiunque, fuori dei casi di concorso nei reati preveduti dagli articoli precedenti, pone in vendita o acquista cose sulle quali siano le impronte contraffatte di una pubblica autenticazione o certificazione, soggiace alle pene rispettivamente stabilite per i detti reati.
 
