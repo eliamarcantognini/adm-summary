@@ -1,0 +1,9 @@
+name: 'render content.md to pages'
+on:
+  push:
+    branches:
+      main
+  
+jobs:
+  render-md-to-html-and-upload-artifact:
+    uses: eliamarcantognini/template-readable-text/.github/workflow/render-md-to-pages.yml
