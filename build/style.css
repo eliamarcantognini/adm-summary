@@ -33,19 +33,19 @@ h5 {
 body {
   touch-action: auto;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
-  font-size: 10px;
+  font-size: 14px;
   line-height: 1.6;
 }
 
 p,
 li {
-  font-size: 10px;
+  font-size: 14px;
   color: #000000;
   text-align: justify;
 }
 
 p:has(> .ut) {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
   font-style: italic;
   text-align: justify;
