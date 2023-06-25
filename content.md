@@ -224,3 +224,4 @@ I capi promotori od organizzatori sono puniti con la reclusione da 1 a 5 anni.
 
 ## Art. 346 bis | Traffico di influenze illecite
 
+Chiunque, fuori dei casi
