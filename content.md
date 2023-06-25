@@ -224,4 +224,26 @@ I capi promotori od organizzatori sono puniti con la reclusione da 1 a 5 anni.
 
 ## Art. 346 bis | Traffico di influenze illecite
 
-Chiunque, fuori dei casi
+Chiunque, fuori dei casi di concorso nei reati di cui agli art. 319 e 319-ter, sfruttando relazioni esistenti con un pubblico ufficiale o con un incaricato di un pubblico servizio, indebitamente fa dare o promettere, a sé o ad altri, denaro o altro vantaggio patrimoniale, come prezzo della propria mediazione illecita verso il pubblico ufficiale o l'incaricato di un pubblico servizio ovvero per remunerarlo, in realazione al compimento di un atto contrario ai doveri di ufficio o all'omissione o al ritardo di un atto del suo ufficio, è punito con la reclusione da 1 a 3 anni.  
+La stessa pena si applica a chi indebitamente dà o promette denaro o altro vantaggio patrimoniale.  
+La pena è aumentata se il soggetto che indebitamente fa dare o promettere, a sé o ad altri, denaro o altro vantaggio patrimoniale, riveste la qualifica di pubblico ufficiale o di incaricato di un pubblico servizio.  
+Le pene sono altresì aumentate se i fatti sono commessi in relazione all'esercizio di attività giudiziarie.  
+Se i fatti sono di particolare tenuità, la pena è diminuita.
+
+## Art. 347 | Usurpazione di funzioni pubbliche
+
+Chiunque usurpa una funzione pubblica o le attribuzioni inerenti a un pubblico impiego è punito con la reclusione fino a 2 anni.  
+Alla stessa pena soggiace il pubblico ufficiale o impiegato il quale, avendo ricevuta partecipazione del provvedimento che fa cessare o sospendere le sue funzioni o le sue attribuzioni, continua ad esercitarle.  
+La condanna importa la pubblicazione della sentenza.
+
+## Art. 349 | Violazione di sigilli
+
+Chiunque viola i sigilli, per disposizione della legge o per ordine dell'autorità apposta al fine di assicurare la conservazione o l'identità di una cosa, è punito con la reclusione da 6 mesi a 3 anni e con la multa da euro €103 a euro €1.032.  
+Se il colpevole è colui che ha in custodia la cosa, la pena è della reclusione da 3 a 5 anni e della multa da €309 a €3.098.
+
+## Art. 350 | Agevolazione colposa
+
+Se la violazione dei sigilli è resa possibile, o comunque agevolata, per colpa di chi ha in custodia la cosa, questi è punito con la sanzione amministrativa pecuniaria da €154 a €929.
+
+## Art. 353 | Turbata libertà degli incanti
+
