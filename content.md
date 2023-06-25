@@ -308,3 +308,52 @@ Il pubblico ufficiale, che, ricevendo o formando un atto nell'esercizio delle su
 ### Art. 480 | Falsità ideologica commessa dal pubblico ufficiale in certificati o in autorizzazioni amministrative
 
 Il pubblico ufficiale, che, nell'esercizio delle sue funzioni, attesta falsamente in certificati o autorizzazioni amministrative, fatti dei quali l'atto è destinato a provare la verità, è punito con la reclusione da 3 mesi a 2 anni.
+
+### Art. 481 | Falsità ideologica in certificati commessa da persone esercenti un servizio di pubblica necessità
+
+Chiunque, nell'esercizio di una professione sanitaria o forense, o di un altro servizio di pubblica necessità, attesta falsamente, in un certificato, fatti dei quali l'atto è destinato a provare la verità, è punito con la reclusione fino a un anno o con la multa da €51 a €516.  
+Tali pene si applicano congiuntamente se il fatto è commesso a scopo di lucro.
+
+### Art. 482 | Falsità materiale commessa dal privato
+
+Se alcuno dei fatti preveduti dagli artt. 476 - 478 è commesso da un privato, ovvero da un pubblico ufficiale fuori dell'esercizio delle sue funzioni, si applicano rispettivamente le pene stabilite nei detti articoli, ridotte di un terzo.
+
+### Art. 483 | Falsità ideologica commessa dal privato in atto pubblico
+
+Chiunque attesta falsamente al pubblico ufficiale, in un atto pubblico, fatti dei quali l'atto è destinato a provare al verità, è punito con la reclusione fino a 2 anni.  
+Se si tratta di false attestazioni in atti dello stato civile la reclusione non può essere inferiore a 3 mesi.
+
+### Art. 487 | Falsità in foglio firmato in bianco. Atto pubblico
+
+Il pubblico ufficiale, che, abusando di un foglio firmato in bianco, del quale abbia il possesso per ragione del suo ufficio e per un titolo che importa l'obbligo o la fcoltà di riempirlo, vi scrive o vi fa scrivere un atto pubblico diverso da quello a cui era obbligato o autorizzato, soggiace alle pene rispettivamente stabilite negli art. 479 e 480.
+
+### Art. 488 | Altre falsità in foglio firmato in bianco. Applicabilità delle disposizioni sulle falsità materiali
+
+Ai casi di falsità su un foglio firmato in bianco diversi da quelli preveduti dai due articoli precedenti, si applicano le disposizioni sulle falsità materiali in atti pubblici o in scritture private.
+
+### Art. 489 | Uso di atto falso
+
+Chiunque senza essere concorso nella falsità, fa uso di un atto falso soggiace alle pene stabilite negli articoli precedenti, ridotte di un terzo.  
+Qualora si tratti di scritture private, chi commette il fatto è punibile soltanto se ha agito al fine di procurare a sé o ad altri un vantaggio o di recare ad altri un danno.
+
+### Art. 490 | Soppressione, distruzione e occultamento di atti veri
+
+Chiunque, in tutto o in parte, distrugge, sopprime od occulta un atto pubblico, o una scrittura privata vera soggiace rispettivamente alle pene stabilite negli art. 476, 477, 482 e 485, secondo le distinzioni in essi contenute.  
+Si applica la disposizione del capoverso dell'articolo precedente.
+
+### Art. 491 | Documenti equiparati agli atti pubblici agli effetti della pena
+
+Se alcuna delle falsità prevedute dagli articoli precedenti riguarda un testamento olografo, ovvero una cambiale o un altro titolo di credito trasmissibile per girata o al portatore, in luogo della pena stabilita per la falsità in scrittura privata nell'art. 485, si applicano le pene rispettivamente stabilite nella prima parte dell'art. 476 e nell'art. 482.  
+Nel caso di contraffazione o alterazione di alcuno degli atti suddetti, chi ne fa uso, senza essere concorso nella falsità, soggiace alla pena stabilita nell'art. 489 per l'uso di atto pubblico falso.
+
+### Art. 491 bis | Documenti informatici
+
+Se alcuna delle falsità previste dal presenta capo riguarda un documento informatico pubblico o privato avente efficacia probatoria, si applicano le disposizioni del capo stesso concernenti rispettivamente gli atti pubblici e le scritture private.
+
+### Art. 492 | Copie autentiche che tengono luogo degli originali mancanti
+
+Agli effetti delle disposizioni precedenti, nella denominazione di atti pubblici e di scritture private sono compresi agli atti orginali e le copie autentiche di essi, quando a norma di legge tengano luogo degli orginali mancanti.
+
+### Art. 493 | Falsità commessi da pubblici impiegati incaricati di un servizio pubblico
+
+Le disposizioni degli articoli precedenti sulle falsità commesse da pubblici ufficiali si applicano altresì agli impiegato dello Stato, o di un altro ente pubblico, incaricati di un pubblico servizio, relativamente agli atti che essi redigono nell'esercizio delle loro attribuzioni.
