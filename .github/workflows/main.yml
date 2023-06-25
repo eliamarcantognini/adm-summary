@@ -5,5 +5,6 @@ on:
       main
   
 jobs:
-  render-md-to-html-and-upload-artifact:
-    uses: eliamarcantognini/template-readable-text/.github/workflow/render-md-to-pages.yml
+  call-workflow:
+    uses: eliamarcantognini/template-readable-text/.github/workflows/render-md-to-pages.yml@main
+    secrets: inherit
