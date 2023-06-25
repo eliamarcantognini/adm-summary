@@ -261,18 +261,50 @@ Salvo che il fatto costituisca più grave reato, chiunque con violenza o minacci
 
 # Delitti contro la fede pubblica
 <span class='ut'>Codice Penale - Libro II - Titolo VII<span>  
-<span class='ut'>Dei delitti contro la fede pubblica - Capo II - Della falsità in sigilli o strumenti o segni di autenticazione, certificazione o riconoscimento<span>  
+<span class='ut'>Dei delitti contro la fede pubblica</span>
 
-## Art. 468 | Contraffazione di altri pubblici sigilli o strumenti destinati a pubblica autenticazione o certificazione e uso di tali sigilli e strumenti contraffatti
+## Capo II
+<span class='ut'>Della falsità in sigilli o strumenti o segni di autenticazione, certificazione o riconoscimento<span>  
+
+### Art. 468 | Contraffazione di altri pubblici sigilli o strumenti destinati a pubblica autenticazione o certificazione e uso di tali sigilli e strumenti contraffatti
 
 Chiunque contraffà il sigillo di un ente pubblico o di un pubblico ufficio, ovvero, non essendo concorso nella contraffazione, fa uso di tale sigillo contraffatto, è punito con la reclusione da 1 a 5 anni e con la multa da €103 a €1.032.  
 La stessa pena si applica a chi contraffà altri strumenti destinati a pubblica autenticazione o certificazione, ovvero, senza essere concorso nella contraffazione, fa uso di tali strumenti.
 
-## Art. 469 | Contraffazione delle impronte di una pubblica autenticazione o certificazione
+### Art. 469 | Contraffazione delle impronte di una pubblica autenticazione o certificazione
 
 Chiunque, con mezzi diversi dagl istrumenti indicati negli articoli precedenti, contraffà le impronte di una pubblica autenticazione o certificazione, ovvero, non essendo concorso nella contraffazione, fa uso della cosa che reca l'impronta contraffatta, soggiace alle pene rispettivamente stabilite nei detti articoli, ridotte di un terzo.
 
-## Art. 470 | Vendita o acquisto di cose con impronte contraffatte di una pubblica autenticazione o certificazione
+### Art. 470 | Vendita o acquisto di cose con impronte contraffatte di una pubblica autenticazione o certificazione
 
 Chiunque, fuori dei casi di concorso nei reati preveduti dagli articoli precedenti, pone in vendita o acquista cose sulle quali siano le impronte contraffatte di una pubblica autenticazione o certificazione, soggiace alle pene rispettivamente stabilite per i detti reati.
 
+### Art. 471 | Uso abusivo di sigilli e strumenti veri
+
+Chiunque, essendosi procurati i veri sigilli o i veri strumenti destinati a pubblica autenticazione o certificazione, ne fa uso a danno altrui, o a profitto di sé o di altri, è punito con la reclusione fino a 3 anni e con la multa fino a €309.
+
+## Capo II
+<span class='ut'>Della falsità in atti<span>  
+
+### Art. 476 | Falsità materiale commessa dal pubblico ufficiale in atti pubblici
+
+Il pubblico ufficiale, che, nell'esercizio delle sue funzioni, forma, in tutto o in parte, un atto falso o altera un atto vero, è punito con la reclusione da 1 a 6 anni.  
+Se la falsità concerte un atto o parte di un atto, che faccia fede fin oa querela di falso, la reclusione è da 3 a 10 anni.
+
+### Art. 477 | Falsità materiale commessa da pubblico ufficiale in certificati o autorizzazioni amministrative
+
+Il pubblico ufficiale, che, nell'esercizio delle sue funzioni, contraffà o altera certificati o autorizzazioni amministrative, ovvero, mediante contraffazione o alterazione, fa apparrire adempiute le condizioni richieste per la loro validità, è punito con la reclusione da 6 mesi a 3 anni.
+
+### Art. 478 | Falsità materiale commessa dal pubblico ufficiale in copie autentiche di atti pubblici o privati e in attestati del contenuto di atti
+
+Il pubblico ufficiale, che, nell'esercizio delle sue funzioni, supponendo esistente un atto pubblico o privato, ne simula una copia e la rilascia in forma legale, ovvero rilascia una copia di un atto pubblico o privato diversa dall'originale, è punito con la reclusione da 1 a 4 anni.  
+Se la falsità concerte un atto o parte di un atto, che faccia fede fino a querela di falso, la reclusione è da 3 a 8 anni.  
+Se la falsità è commessa dal pubblico ufficiale in un attestato sul contenuto di atti, pubblici o privati, la pena è della reclusione da 1 a 3 anni.
+
+### Art. 479 | Falsità ideologica commessa dal pubblico ufficiale in atti pubblici
+
+Il pubblico ufficiale, che, ricevendo o formando un atto nell'esercizio delle sue funzioni, attesta falsamente che un fatto è stato da lui compiuto o è avvenuto alla sua presenza, o attesta come da lui ricevute dichiarazioni a lui non rese, ovvero omette o altera dichiarazioni da lui ricevute, o comunque attesta falsamente fatti dei quali l'atto è destinato a provare la verità, soggiace alle pene stabilite nell'art. 476.
+
+### Art. 480 | Falsità ideologica commessa dal pubblico ufficiale in certificati o in autorizzazioni amministrative
+
+Il pubblico ufficiale, che, nell'esercizio delle sue funzioni, attesta falsamente in certificati o autorizzazioni amministrative, fatti dei quali l'atto è destinato a provare la verità, è punito con la reclusione da 3 mesi a 2 anni.
