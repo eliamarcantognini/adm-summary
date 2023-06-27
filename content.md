@@ -18,6 +18,8 @@
   - [L'arresto in flagranza](#larresto-in-flagranza)
   - [Il fermo di indiziato della PG o del PM](#il-fermo-di-indiziato-della-pg-o-del-pm)
   - [Allontanamento d'urgenza dalla casa familiare](#allontanamento-durgenza-dalla-casa-familiare)
+  - [Adempimenti e verifiche comuni](#adempimenti-e-verifiche-comuni)
+  - [La convalida](#la-convalida)
 - [Pubblici ufficiali](#pubblici-ufficiali)
   - [Art. 357 | Nozione di pubblico ufficiale](#art-357--nozione-di-pubblico-ufficiale)
   - [Art. 358 | Nozione della persona incaricata di un pubblico servizio](#art-358--nozione-della-persona-incaricata-di-un-pubblico-servizio)
@@ -204,7 +206,38 @@ Diversi, però, ne sono:
 
 ## Allontanamento d'urgenza dalla casa familiare
 
+Nella prospettiva di una maggiore tutela dei cittadini contro la violenza, in particolare quella familiare, ha introdotto nel codice, con l'art. 384 bis, una nuova misura precautelare che si affianca ai tradizionali arresto e fermo: l'*allontanamento d'urgenza dalla casa familiare*, che costituisce una forma anticipata di adozione della misura cautelare vera e propria prevista dall'art. 282 bis c.p.p.
 
+## Adempimenti e verifiche comuni
+
+Come già accennato, l'arresto e il fermo costituiscono il punto di partenza per una serie di adempimenti e di verifiche a tutela di esigenze, comuni ad entrambi gli istituti.  
+Innanzitutto, le misure in esame non sono consentite quando il fatto commesso appaia non punibile o coperto da una causa di giustificazione (art. 385).  
+I doveri della PG, in caso di fermo o arresto, sono:
+
+- immediata notizia dell'operazione al PM presso il tribunale;
+- avvertimento al soggetto *in viculis* della falcoltà di nominare un difensore di fiducia;
+- richiesta al PM, ove necessario, di provvedere alla nomina del difensore di ufficio;
+- immediata informativa al difensore dello stato di restrizione;
+- messa a disposizione del PM, entro le 24 ore, dell'arrestato o fermato, mediante traduzione del predetto presso la locale casa circondariale o mandamentale;
+- invio nello stesso termine di 24 ore del verbale di arresto al PM, salvo che quest'ultimo non conceda una dilazione;
+- avviso dell'arresto o fermo ai familiari, con il consenso dell'interessato;
+- in caso di arresto o di fermo di madre con prole di minore, immediata notizia al pubblico ministero territorialmente competente.
+
+Un obbligo di immediata liberazione dell'arrestato o fermato è dettato sia per il PM che per l'ufficiale di PG nei casi di llegittima privazione dellal ibertà personale, sia per carenza dei presupposti di fatto, sia per difetto dei requisiti di legittimità. Altra ipotesi di immediata liberazione è quella in cui la misura sia divenuta inefficace per decorrenza delle 24 ore o per vana decorrenza delle 48 ore assegnate al PM per richiedere la convalida dell'arresto o del fermo al giudice, o delle ulteriori 48 ore spettanti al giudice per decidere sulla convalida.  
+Una particolare ipotesi è poi quella secondo cui il PM rimette immediatamente in libertà l'arrestato o il fermato, se non intende chiedere al GIP una misura coercitiva.
+
+## La convalida
+
+Il PM ha 48 ore (dall'arresto o dal fermo) per richiedere al GIP (del luogo di esecuzione della misura) la convalida; tale atto equivale a messa a disposiizione o presentazione del soggetto in vinculis al giudce. Nelle successive 48 ore il GIP deve celebrare l'udienza di convalida e decidere, a pena di cessazione di efficacia del fermo o dell'arresto.  
+Il difensore dell'arrestato o del fermato ha diretto di esaminare ed estrarre copia degli atti su cui si fonda la richiesta di convalida e di applicazione della misura cautelare.
+
+L'udienza (celebrata in camera di consiglio, di regola in carcere ma può essere disposta presso altro luogo se l'indagato è agli arresti domiciliari) si svolge con la partecipazione necessaria dell'arrestato o fermato e del difensore, preavvisati a cura della cancelleria del GIP. Il PM ha facoltà di non comparire, ma in tal caso deve trasmettere per iscritto le sue richieste in ordine alla libertà dell'indagato.  
+Instaurato il contraddittorio innanzi al GP, il PM, se comparso, espone i motivi dell'arresto o del fermo e presenta le sue richiesta sulla convalida e sulla conversione in misura coercitiva. Viene poi interrogato l'arrestato o il fermato, salvo che non abbia voluto o potuto comparire all'udienza, e sentito il suo difensore, eventualmente di ufficio.  
+Indi il GIP adotta la sua decisione, che è di *convalida*, se l'arresto o il fermo era legittimo *ab initio* e non sia divenuto inefficace per decorrenza della serie di termini brevi innanzi esaminata; di *non convalida* in senso contrario.  
+L'ordinanza di *convalida*, in quale tale, attiene solo al controllo giurisdizionale sull'atto privativo di libertà operato dalla PG (arresto o fermo) o dal PM (fermo), ma non vale a legittimare l'ulteriore protrazione dello stato di fermo o arresto. Infatti, il GIP, se non emette anche ordinanza ulteriore di applicazione di una misura coercitiva, deve, in ogni caso, ordinare la immediata liberazione dell'indagato, sicché la restrizione in vinculis prosegue soltanto se la contestuale richiesta di misura coercitiva è accolta dal GIP.  
+Pertanto, sia nell'ipotesi di *mancata convalida*, sia in quella di convalida non seguita dalla *irrogazione di una misura coercitiva*, il fermato o arrestato deve essere immediatamente liberato.  
+L'ordinanza con la quale il GIP conclude l'udienza di convalida  deve essere pronunciata nelle 48 ore dalla messa a disposizione dell'arrestato/fermato da parte del PM, a pena di *perdita di efficacia* dell'arresto/fermo con conseguente liberazione dell'indagato. L'ordinanza deve essere comunica al PM, o notificata all'indagato eventualmente non comparsi.  
+Avverso il provvedimento di convalida dell'arresto o del fermo può essere proposto esclusivamente *ricorso per Cassazione*. Contro l'eventuale misura cautelare adottata, può invece proporsi l'ordinario mezzo di impugnazione del riesame previsto dall'art. 309.
 
 # Pubblici ufficiali
 <span class='ut'>Codice Penale - Libro II - Titolo II<span>  
