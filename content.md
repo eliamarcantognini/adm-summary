@@ -15,6 +15,9 @@
   - [Altre funzioni della PG](#altre-funzioni-della-pg)
 - [L'arresto e il fermo di Polizia Giudiziaria](#larresto-e-il-fermo-di-polizia-giudiziaria)
   - [Le misure precautelari](#le-misure-precautelari)
+  - [L'arresto in flagranza](#larresto-in-flagranza)
+  - [Il fermo di indiziato della PG o del PM](#il-fermo-di-indiziato-della-pg-o-del-pm)
+  - [Allontanamento d'urgenza dalla casa familiare](#allontanamento-durgenza-dalla-casa-familiare)
 - [Pubblici ufficiali](#pubblici-ufficiali)
   - [Art. 357 | Nozione di pubblico ufficiale](#art-357--nozione-di-pubblico-ufficiale)
   - [Art. 358 | Nozione della persona incaricata di un pubblico servizio](#art-358--nozione-della-persona-incaricata-di-un-pubblico-servizio)
@@ -166,6 +169,41 @@ La funzione fondamentale delle indagini di PG è quella di acquisire gli element
 # L'arresto e il fermo di Polizia Giudiziaria
 
 ## Le misure precautelari
+
+In tema di libertà personale l'art. 13 della Costituzione proclama la *inviolabilità* della stessa me ne ammetta la *limitazione* solo *per atto motivato della Autorità Giudiziaria* e nei soli casi e modi previsti dalla legge (misure cautelari). Inoltre, in *casi eccezionali di necessità e urgenza*, è previsto che la Polozia Giudiziaria possa adottare, in ipotesi predeterminate dalla legge, provvedimenti provvisori da assoggettare a *convalida* della AG entro il termine perentorio di 96 ore, pena la perdita di efficiata (cd. misure precautelari).  
+Nella materia cautelare, la nostra Costituzione, tenuto conto del bene primario della libertà individuale su cui le misure vanno ad incidere, ha previsto un regime di doppia riserva:
+
+- *di legge*, perché ai sensi dell'art 13 Cost. è riservata solo alla legge la previsione dei casi in cui la libertà personale può essere ristretta (riserva assoluta di legge);
+- *di giurisdizione*, in quanto il medesimo art. 13, prevede che in tale materia possa intervenire solo l'AG (PM o giudice) con atti motivati.
+
+Il codice di procedura, come accennato, contempla due categorie di strumenti limitati della libertà personale:
+
+- *le misure precautelari*, di pertinenza della PG (**arresto in flagranza** e **fermo di indiziato di delitto**) o del PM (**fermo**), organi inquirenti privi di potere giurisdizionale;
+- *le misure cautelari personali*, coercitive o interdittive, di pertinenza del giudice (GIP e altro giudice competente), che può adottarle solo su richiesta del PM e quindi non di ufficio.
+
+## L'arresto in flagranza
+
+L'arresto in flagranza rappresenta la prima forma di carcerazione preventiva. L'arresto che rientra nei poteri attribuiti agli *ufficiali e agenti di PG*, si ripartire in *obbligatorio* (art. 380) e *facoltativo* (art. 381), a seconda che la sua effettuazione costituisca atto dovuto o atto discrezionale della PG.  
+Presupposto comune è la *flagranza del reato*, ossia la sorpresa del soggetto nell'atto di commettere il erato, ovvero nell'inseguimento ad opera della PG, della persona offesa o di altre persone, effettuato subito dopo il erato, o nella sorpresa del reo con cose o tracce dalle quali appaia che egli abbia commesso ilerato immediatamente prima (*quasi flagranza* art. 382).  
+Per la previsione obbligatoria di arresto deve trattarsi sempre di delitti non colposi, riconducibili ad una indicazione generale ovvero ad una elencazione specifica. Nella prima rientrano i delitti punibili con la reclusione non inferiore nel minimo a 5 anni e nel massimo 20 anni. Nella seconda rientrano i reati ivi espressamento menzionati e che sono stati indivuidati per le loro caratteristiche di esigenze di salvaguardia dell'ordine costituzionale, della sicurezza collettiva, dell'ordinato vivere civile e dei minori.  
+L'arresto, obbligatorio o falcoltativo, rientra nelle competenze degli ufficiali ed agenti di PG, essendo escluso che un siffatto potere sussista in testa al PM, cui, ad eccezione del fermo, è stata sottratta ogni diretta potestà in tema di limitazione di libertà personale.  
+
+L'altra ipotesi di arresto, quella facoltativa, è anch'essa strutturata esclusivamente per i delitti e secondo una duplice previsione: una *generale* che attiene alla misura della pena prevista dal codice penale ed una *elencanzione analitica*, di natura tassativa, effettuata secondo il titolo dei reati e quindi sulla base della qualità criminale degli stessi. Per tali reati, è stata esclusa la facoltà di arresto da parte dei privati.
+
+Il comma 4 bis dell'art. 381 vieta l'arresto della persona che, richiesta di fornire informazioni dalla PG o dal PM, si ritenga le renda false o reticenti. Tale norma mira a garantire la libertà del teste innanzi agli organi inquirenti e ad evitare pericolose *coazioni psicologiche* che la minaccia dell'arresto potrebbe comportare.
+
+## Il fermo di indiziato della PG o del PM
+
+L'istituto del fermo attribuisce alla PG e al PM un potere di cattura discrezionale, svincolato dal requisito della flagranza del reato (come invece per l'arresto).  
+Il fermo consiste, come l'arresto, in privazione di libertà; dopo la sua effettuazione, è soggetto alle stesse disposizioni valide per l'arresto.   
+Diversi, però, ne sono:
+
+- i presupposti: il fermo richiede anzitutto la sussistenza di gravi indizi di colpevolezza a carico dell'indagato per delitti puniti con l'ergastolo o la reclusione non inferiore nel minimo a 2 anni e superiore nel massimo a 6; o commessi per finalità di terrorismo od eversione. Deve ricorrere inoltre il pericolo di fuga. Inoltre, il fermo è consentito anche dopo l'individuazione dell'imputato, se il possesso di documenti falsi lascia desumere che l'indiziato possa darsi alla fuga, prima del provvedimento del PM;
+- le finalità: evitare che l'indagato possa darsi alla fuga, soprattutto quando, mancando il requisito della flagranza, non può procedersi all'arresto;
+- la titolarità del potere: spetta sia al PM che alla PG, prima dell'assunzione della direzione delle indagini da parte del PM.
+
+## Allontanamento d'urgenza dalla casa familiare
+
 
 
 # Pubblici ufficiali
