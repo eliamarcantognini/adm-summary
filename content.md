@@ -519,7 +519,23 @@ L'art. 42 detta disposizioni di principio per l'applicazione di sanzioni amminis
 
 ### Diritti e Dazi doganali
 
+La normativa nazionale stabilisce che si considerano Diritti doganali tutti quei "diritti che la Dogana è tenuta a riscuotere in forza di una legge, in relazione alle operazioni doganali" (Art. 34). Nell'ambito dei diritti doganali rientrano i cosiddetti diritti di confine, che comprendono le prestazioni di natura più propriamente tributaria, tra le quali figurano i dazi doganali e ogni altra imposta (o svorimposta) di consumo dovuta in relazione alle operazioni doganali, come l'IVA e le accise applicate sulle importazioni.
 
+I dazi, secondo la destinazione delle merci, si distinguono in:
+
+- Dazi di importazione, che colpiscono le merci provenienti da Paesi terzi introdotte definitivamente in un territorio doganale (Art. 4);
+- Dazi di esportazione, che colpiscono le merci destinate al consumo in Paesi terzi e sono aplicati al momento dell'uscita definitiva ed effettiva.
+
+I dazi doganali, che hanno natura di entrate fiscali, rientrano tra le cosiddette risorse proprie iscritte nel bilancio generale dell'UE, destinate a garantire le risorse finanziare per il corretto sviluppo delle politiche dell'UE.  
+In particolare, le risorse proprio sono costituite principalmente da:
+
+- i dazi doganali e altri prelievi impositivi di effetto equivalente;
+- una quota degli imponibili IVA armonizzati di ciascun Stato di importazione.
+
+### La Territorialità
+
+La Normativa doganale prevede la corretta individuazione del territorio doganale, nazionale e poi unionale che consente di determinare il perimetro entro il quale essa trova applicazione e, per effetto dell'immissione in libera pratica della merce all'interno del territorio stesso, fa sorgere l'obbligazione doganale.  
+Il CDC fornisce la nozione di territorio doganale ai fini dell'applicazione degli istituti doganalii e dei dazi nelle transazioni commerciali tra gli Stati membri dell'UE e i Paesi terzi.
 
 
 ## Accise
