@@ -1,5 +1,10 @@
-{TOC}
-{TITLE} Riassunti ADM
+{TOC}{TITLE} Riassunti ADM
+
+<!-- ------------------------------------------------ -->
+<!-- ------------------------------------------------ -->
+<!-- ------                                     ----- -->
+<!-- ------------------------------------------------ -->
+<!-- ------------------------------------------------ -->
 
 # La polizia giudiziaria
 
@@ -93,6 +98,12 @@ Strumentale allo svolgimento di indagini è la ricerca della notizia di reato (a
 La funzione repressiva della persecuzione penale si ricollega, altresì, a quella di impedire innanzitutto che il reato in atto sia portato ad ulteriori conseguenze, dovendosi interrompere la protrazione dell'attività antigiuridica (art. 55).  
 La funzione fondamentale delle indagini di PG è quella di acquisire gli elementi occorrenti per l'esercizio dell'azione penale (artt. 50, 55, 326) o, meglio, per il suo esercizio o meno. Una esigenza di completezza impone alla PG anche di raccogliere quant'altro possa servire per l'applicazione della legge penale. La strumentalizzazione delle indagini di PG all'eserizio dell'azione penale trova riscontro nella posizione strumentale degli apparati di PG rispetto al PM, che ai primi impartisce direttive (cd. temi di indagine) ovvero delega specifici atti (art. 348), qualora non ritenga di svolgere direttamente le indagini (art. 326).
 
+<!-- ------------------------------------------------ -->
+<!-- ------------------------------------------------ -->
+<!-- ------                                     ----- -->
+<!-- ------------------------------------------------ -->
+<!-- ------------------------------------------------ -->
+
 # L'arresto e il fermo di Polizia Giudiziaria
 
 ## Le misure precautelari
@@ -164,6 +175,12 @@ Pertanto, sia nell'ipotesi di *mancata convalida*, sia in quella di convalida no
 L'ordinanza con la quale il GIP conclude l'udienza di convalida  deve essere pronunciata nelle 48 ore dalla messa a disposizione dell'arrestato/fermato da parte del PM, a pena di *perdita di efficacia* dell'arresto/fermo con conseguente liberazione dell'indagato. L'ordinanza deve essere comunica al PM, o notificata all'indagato eventualmente non comparsi.  
 Avverso il provvedimento di convalida dell'arresto o del fermo può essere proposto esclusivamente *ricorso per Cassazione*. Contro l'eventuale misura cautelare adottata, può invece proporsi l'ordinario mezzo di impugnazione del riesame previsto dall'art. 309.
 
+<!-- ------------------------------------------------ -->
+<!-- ------------------------------------------------ -->
+<!-- ------                                     ----- -->
+<!-- ------------------------------------------------ -->
+<!-- ------------------------------------------------ -->
+
 # Pubblici ufficiali
 <span class='ut'>Codice Penale - Libro II - Titolo II<span>  
 <span class='ut'>Dei delitti contro la Pubblica Amministrazione<span>  
@@ -188,6 +205,12 @@ Agli effetti della legge penale, sono persone che esercitano un servizio di pubb
 ## Art. 360 | Cessazione della qualità di pubblico ufficiale
 
 Quando al legge considera la qualità di pubblico ufficiale o di incaricato di un pubblico servizio, o di esercente un servizio di pubblica necessità, come elmento costitutivo o come circostanza aggravante di un reato, la cessazione di tale qualità, nel momento in cui il reato è commesso, non esclude l'esistenza di questo né la circostanza aggravante se il fatto si riferisce all'ufficio o al servizio esercitato.
+
+<!-- ------------------------------------------------ -->
+<!-- ------------------------------------------------ -->
+<!-- ------                                     ----- -->
+<!-- ------------------------------------------------ -->
+<!-- ------------------------------------------------ -->
 
 # Reati contro la PA
 <span class='ut'>Codice Penale - Libro II - Titolo II<span>  
@@ -426,3 +449,79 @@ Agli effetti delle disposizioni precedenti, nella denominazione di atti pubblici
 ### Art. 493 | Falsità commessi da pubblici impiegati incaricati di un servizio pubblico
 
 Le disposizioni degli articoli precedenti sulle falsità commesse da pubblici ufficiali si applicano altresì agli impiegato dello Stato, o di un altro ente pubblico, incaricati di un pubblico servizio, relativamente agli atti che essi redigono nell'esercizio delle loro attribuzioni.
+
+<!-- ------------------------------------------------ -->
+<!-- ------------------------------------------------ -->
+<!-- ------                                     ----- -->
+<!-- ------------------------------------------------ -->
+<!-- ------------------------------------------------ -->
+
+# Cenni su normative
+
+## Dogane
+
+### Normativa di riferimento
+
+Il funzionamento dell'ADM è regolamentato:
+
+- dalla normativa nazionale, con le disposizioni legislative che istituiscono l'Agenzia stessa o che ne disciplinano aspetti di particolare rilievo;
+- da una regolamentazione dell'Agenzia, che comprende lo Statuto e gli altri Atti generali adottati nell'esercizio dei poteri di autonomia organizzativa e gestionale attribuiti dalla legge, fra cui:
+  - il Regolamento di amministrazione, che individua le strutture di vertice dell'Agenzia a livello centrale e regionale e definisce il modello organizzativo degli uffici locali;
+  - lo Statuto, che individua la missione, le funzioni e le attività dell'Agenzia, oltre a delineare le competenze del Direttore generale, del Comitato di gestione del Collegio dei revisori dei conti.
+
+### Normativa Dogane
+
+Prima dell'insstaurazione della legge comunitaria ogni Stato membro dell'UE aveva una sua specifica legge doganale. In Italia la legge doganale era precedentemente identificata nel Testo Unico delle Leggi Doganali (TULD) ed era applicabile alle importazioni e alle esportazioni di merci tra al Comunità e i Paesi terzi e contenuta nel Codice Doganale Comunitario (CDC) e nelle relative disposizioni attuative (DAC).  
+Attualmente una parte della legislazione locale, in particolare quella che riguarda le sanzioni, è ancora in vigore a ancora disciplina alcune situazioni a livello locale, purché non in contrasto con la legge comunitaria.
+
+Si è poi arrivati all'emanazione del Codice Doganale Unionale (CDU), entrato in vigore il 1° maggio 2016, che disciplina le operazione doganali che si svolgono nell'ambito dell'UE. Il CDU definisce:
+
+- i presupposti oggettivi e soggettivi dell'imposizione;
+- gli elementi di base dell'obbligazione doganale, quindi la classificazione tariffaria, l'origine e il valore delle merci;
+- la procedura da seguire per l'introduzione dei prodotti nel territorio UE e per l'assegnazione della destinazione doganale prescelta, gli obblighi dei contribuenti e le modalità di accertamento dei debiti d'imposta;
+- i regimi doganali per l'immissione in libera pratica, l'esportazione, il transito, il deposito, il perfezionamento attivo e passivo, e l'ammissione temporanea.
+
+### Le modifiche
+
+Dal 2016 sono state apportate diverse modifiche:
+
+- Reg. UE 2016/2339: previste esenzioni per le dichiarazioni relative alle merci uscite temporaneamente dal territorio doganale dell?UE per via marittima o aerea;
+- Reg. UE 2019/474: modificato il raggio del territorio doganale e ha introdotto alcune modifiche tecniche;
+- Reg. UE 2019/632: prevista la possibilità, per le autorità doganali e le imprese, di continuare a utilizzare i sistemi informatici esistenti o gli strumenti su supporto cartaceo per un numero delimitato di formalità fino al 2025.
+
+### Cosa si intende per "Dogana"
+
+Per Dogana si intende un organismo di natura pubblica preposto al controllo dell'entrata e dell'uscita delle merci dal territorio nazionale, sia che si tratti di materiali a seguito dei viaggiatori, sia di trasporto di merci. Le merci che transitano da uno Stato all'altro sono soggette allo sdoganamento, ossia al pagamento di un'imposta e all'espletamento di alcune formalità burocratiche. Per essere sdoganati, i prodotti devono innanzitutto essere conformi alla normativa, pena il sequestro in caso di non conformità.  
+La merce è sottoposta al controllo di profili tecnici, che dopo averla visionata ne determinano la categoria di appartenenza. Si procede poi alla definizione de idazi da pagare per la spedizione, calcolati sulla base di un tariffario comunitario, chiamato Tariffa Doganale.  
+Quindi, oltre al controllo delle merci che attraversano i confini di uno Stato, gli uffici doganali si occupano di accertare la riscossione dei dazi doganali dovuti per l'import/export e, allo stesso tempo, di garantire la difesa dell'industria e del consumatore dell'UE.
+
+Tornando al CDU, esso ha introdotto:
+
+- novità sullo sdoganamento centralizzato (Art. 179);
+- nuove regole sulla rappresentanza doganale (Art. 5);
+- i regimi doganali;
+- un maggior rilievo della figura dell'operatore economico autorizzato (AEO) (Art. 5-bis);
+- principi in materia di origine delle merci (Artt. 22 e segg.);
+- chiarificazioni sui regimi doganali e sull'obbligazione doganale stessa (Artt. 124-126).
+
+### Le novità
+
+Il CDU, all'art. 3, definisce il ruolo e le responsabilità dell'autorità doganale:
+
+- assicurare la tutela degli interessi finanziari dell'UE e degli Stati membri;
+- contrastare il commercio sleale e illegale sostenendo le attività commerciali legittime;
+- garantire la sicurezza dell'UE e dei cittadini e la tutela dell'ambiente;
+- mantenere un equilibrio adeguato fra i controlli doganali e l'agevolazione degli scambi legittimi.
+
+Il CDU stabilisce, all'art. 6, che tutte le operazioni doganali e commerciali devono essere effettuate mediante procedimenti informatici e i sistemi telematici doganali devono offrire agli operatori economic le stesse possibilità in ciascuno Stato membro.  
+L'art. 70 stabile che il valore in dogana delle merci importate è il valore di transazione, cioè *il prezzo effettivamente pagato o da pagare per le merci quando sono vendute per l'esportazione verso il territorio doganale dell'UE, eventualmente adeguato*.  
+L'art. 42 detta disposizioni di principio per l'applicazione di sanzioni amministrative in caso di violazione della normativa doganale: manca tuttavia una disciplina armonizzata a livello dell'UE in materia di sanzioni amministrative doganali. Le sanzioni previste dal codice devono essere *effettive*, *proporzionali* e *dissuasive*.
+
+### Diritti e Dazi doganali
+
+
+
+
+## Accise
+
+## Giochi
